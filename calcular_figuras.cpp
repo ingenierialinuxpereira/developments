@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdlib>
- 
+//Francisco Gutierrez
 using namespace std;
 void pausa();
 int main()
